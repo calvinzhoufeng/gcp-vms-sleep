@@ -1,4 +1,9 @@
-# The code is to enhance the existing function Scheduling Compute Instances with Cloud Scheduler
+
+# Introduction
+To support multiple VMs, please find out the full details: https://medium.com/@cyanzhoufeng/gcp-put-your-staging-env-into-sleep-mode-during-non-working-hours-bc557673028d
+This code is used to achieve the functions described in this Medium article
+
+## The code is to enhance the existing function Scheduling Compute Instances with Cloud Scheduler
 
 Below is the original README of the sample code, it also includes the instruction
 
@@ -35,10 +40,6 @@ See the [Scheduling Instances with Cloud Scheduler tutorial][tutorial].
 [background_functions_docs]: https://cloud.google.com/functions/docs/writing/background
 
 ======================Quote ended===================
-
-# Introduction
-To support multiple VMs, please find out the full details: 
-This repo is used to achieve the functions described in this Medium article
 
 ## Usage
 Checkout the code
