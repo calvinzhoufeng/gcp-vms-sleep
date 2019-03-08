@@ -1,4 +1,4 @@
-# The code is to enhance the existing function described in https://cloud.google.com/scheduler/docs/scheduling-instances-with-cloud-scheduler
+# The code is to enhance the existing function Scheduling Compute Instances with Cloud Scheduler
 
 Below is the original README of the sample code, it also includes the instruction
 
@@ -36,11 +36,11 @@ See the [Scheduling Instances with Cloud Scheduler tutorial][tutorial].
 
 ======================Quote ended===================
 
-## Introduction
+# Introduction
 To support multiple VMs, please find out the full details: 
 This repo is used to achieve the functions described in this Medium article
 
-### Usage
+## Usage
 Checkout the code
 ```
 git clone git@github.com:CyanZero/gcp-vms-sleep.git
